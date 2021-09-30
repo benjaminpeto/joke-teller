@@ -1,6 +1,6 @@
 const button = document.getElementById('button');
 const audioElement = document.getElementById('audio');
-const myKey = config.MY_API_KEY;
+const myKey = MY_API_KEY;
 
 // Disable/Enable Button
 function toggleButton() {
